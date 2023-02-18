@@ -1,0 +1,35 @@
+.single-btn button {
+  background: #f1efef;
+  display: inline-block;
+  padding: .5rem 2rem;
+  text-decoration: none;
+  color: rgb(4, 4, 4);
+  border: 3px solid transparent;
+  transition: 0.1s;
+  margin-top: 1rem;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-family: serif;
+  margin-right: -5%;
+  margin-left: 7%;
+  width: 15%;
+  height: 45px;
+}
+
+.single-btn button:hover {
+  border: 2px solid rgb(221, 228, 228);
+  background-color: rgb(223, 224, 225);
+  color: rgb(19, 18, 18);
+}
+
+.single-btn img {
+  width: 30px;
+  height: 30px;
+  margin-left: -45%;
+  margin-right: 3%;
+  margin-top: -2px;
+}
+.img1 {
+  margin-bottom: 20px;
+  margin: 2px;
+}

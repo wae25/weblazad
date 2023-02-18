@@ -1,0 +1,36 @@
+.row {
+    margin-left: 60px;
+   
+}
+
+.img {
+    margin-left: -30%;
+    padding: 12px;
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    background-color: rgb(240, 239, 236);
+}
+.caption {
+    margin-left: -30%;
+    background-color: rgb(245, 240, 235);
+    font-family:initial;
+}
+.t1 {
+    margin-top: 5%;
+    font-family:initial;
+}
+.img1 {
+    width: 100px;
+    height: 100px;
+}
+.img3 {
+width: 150px;
+height: 150px;
+margin-bottom: 5px;
+}
+.t3 {
+    margin-top: 15px;
+    margin-left: 65px;
+    font-family:initial;
+}
